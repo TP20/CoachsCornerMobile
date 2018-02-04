@@ -1,12 +1,12 @@
 <resources>
     <string name="app_name">CoachsCorner</string>
-    <string name="username">Username</string>
+    <string name="email">Email</string>
     <string name="password">Password</string>
     <string name="login_button">Login</string>
     <string name="register_button">Register</string>
     <string name="registration_firstName">First Name</string>
     <string name="registration_lastName">Last Name</string>
-    <string name="registration_username">Username</string>
+    <string name="registration_email">Email</string>
     <string name="registration_password">Password</string>
     <string name="connect_or_login_with">Connect or Login with</string>
     <string name="coachs_corner">Coach\'s Corner</string>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "306593848109",
+    "firebase_url": "https://coachscorner-2e42e.firebaseio.com",
+    "project_id": "coachscorner-2e42e",
+    "storage_bucket": "coachscorner-2e42e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306593848109:android:aafdef272ae0aaf6",
+        "android_client_info": {
+          "package_name": "test.coachscorner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306593848109-pbllple4hrmphodia1btid187danpnr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjUIRN0lacQDYHHVDPMGQ_RWecHzZNcjY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
